@@ -1,4 +1,10 @@
-<img src="https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/75PSXTIAEBCYHEJ3Z4WHTY72GU.gif" alt="animated" />
+<p align="center">
+  <img src="https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/75PSXTIAEBCYHEJ3Z4WHTY72GU.gif" alt="animated" />
+</p>
+
+<p align="center">  
+  🚧 Working on it 🚧
+</p>
 
 ---
 
@@ -8,7 +14,7 @@
 
 - 🌱 I’m currently learning about everything 🤣
 - 🌴 I'm from Canary Islands, Spain
-- ⚡ Fun fact: I love to read and walk
+- ⚡ About me: I love to read and walk (more than 17000 km in the last 4 years)
 
 ---
 
@@ -16,8 +22,7 @@
 <p>
   <a target="_blank"href="https://www.linkedin.com/in/alexis-guanche/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-              badge&logo=linkedin&logoColor=white" /></a>
   <a target="_blank"href="https://github.com/Saixel"><img src="https://img.shields.io/badge/GitHub-%230077B5.svg?&color=black&style=for-the-              badge&logo=github&logoColor=white" /></a>
-  <a target="_blank"href="https://www.facebook.com/Syxel/"><img src="https://img.shields.io/badge/Facebook-%230077B5.svg?&color=informational&style=for-the-              badge&logo=facebook&logoColor=white" /></a>
-  <a target="_blank"href="https://www.hackerrank.com/Syxel"><img src="https://img.shields.io/badge/HackerRank-%230077B5.svg?&color=success&style=for-the-              badge&logo=hackerrank&logoColor=black" /></a>
+  <a target="_blank"href="https://www.hackerrank.com/Syxel"><img src="https://img.shields.io/badge/HackerRank-339933.svg?&style=for-the-              badge&logo=hackerrank&logoColor=black" /></a>
 </p>
 
 ## Languages and Tools
@@ -29,7 +34,7 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![NuxtJS](https://img.shields.io/badge/-NuxtJS-4FC08D?style=flat&logo=nuxtdotjs&logoColor=white)
+![NuxtJS](https://img.shields.io/badge/-NuxtJS-47A248?style=flat&logo=nuxtdotjs&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -42,9 +47,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-
- 🚧 Working on it 🚧
+![Linux](https://img.shields.io/badge/-Linux-7952B3?style=flat&logo=Linux&logoColor=white)
 
 ---
 
