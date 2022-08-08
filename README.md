@@ -53,7 +53,7 @@
 
 ## :zap: GitHub Stats
 
-[![Saixel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saixel)](https://github.com/anuraghazra/github-readme-stats)
+[![Saixel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saixel&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
